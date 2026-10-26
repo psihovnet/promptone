@@ -96,7 +96,8 @@ Found a bad prompt, missing an artist or have an idea — [open an issue](https:
 
 ## License
 
-Prompts and the dataset — [CC BY 4.0](LICENSE): use them anywhere, including commercially, with a link to
-[PrompTone](https://promptone.pro). Facts: MusicBrainz and Wikidata (CC0), Last.fm.
+Prompts and the dataset — [CC0](LICENSE), public domain: use them anywhere, including commercially, no attribution
+required. A link to [PrompTone](https://promptone.pro) is appreciated but optional. Facts: MusicBrainz and Wikidata
+(CC0), Last.fm.
 
 Made by Artem Kvashennikov.
