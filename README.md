@@ -12,7 +12,7 @@ instruments, vocals, production, tempo, mood — so you can paste it straight in
 
 **Mix artists into a new style** — try [Radiohead × Beethoven](https://promptone.pro/en/mix?s=radiohead~general~~50&s=ludwig-van-beethoven~general~~50).
 
-- **610 artists and composers**, over **11,000 prompts** — rock, metal, pop, hip hop, electronic, jazz, world,
+- **612 artists and composers**, over **11,000 prompts** — rock, metal, pop, hip hop, electronic, jazz, world,
   classical and opera.
 - **Levels:** overall style · every studio album · live albums · eras (albums grouped by similar sound).
   Composers get genres (operas, symphonies…) and periods.
