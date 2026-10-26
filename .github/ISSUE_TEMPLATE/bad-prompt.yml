@@ -1,0 +1,29 @@
+name: Bad prompt
+description: The generated track doesn't sound like the artist, album or era
+labels: [prompt]
+body:
+  - type: input
+    id: url
+    attributes:
+      label: Link to the artist page
+      placeholder: https://promptone.pro/en/artists/radiohead
+    validations:
+      required: true
+  - type: input
+    id: level
+    attributes:
+      label: Which prompt
+      description: Overall style, an album, a live album or an era
+      placeholder: "Album: OK Computer"
+  - type: dropdown
+    id: target
+    attributes:
+      label: Generator
+      options: [Suno, Udio]
+  - type: textarea
+    id: what
+    attributes:
+      label: What went wrong
+      description: What did the track sound like, and what was missing or extra?
+    validations:
+      required: true

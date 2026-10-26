@@ -1,0 +1,16 @@
+name: Missing artist
+description: An artist isn't in the catalog and on-demand generation didn't help
+labels: [catalog]
+body:
+  - type: input
+    id: artist
+    attributes:
+      label: Artist
+      description: Name, and a MusicBrainz link if you have one
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: What happened when you searched for them on the site?
