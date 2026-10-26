@@ -10,11 +10,14 @@ Want a track that sounds like early Radiohead, *Kid A* or a mix of Daft Punk and
 names from the Style field and may reject the request. PrompTone describes the sound itself — genre, era,
 instruments, vocals, production, tempo, mood — so you can paste it straight into the generator.
 
+**Mix artists into a new style** — try [Radiohead × Beethoven](https://promptone.pro/en/mix?s=radiohead~general~~50&s=ludwig-van-beethoven~general~~50).
+
 - **610 artists and composers**, over **11,000 prompts** — rock, metal, pop, hip hop, electronic, jazz, world,
   classical and opera.
 - **Levels:** overall style · every studio album · live albums · eras (albums grouped by similar sound).
   Composers get genres (operas, symphonies…) and periods.
-- **Mix styles:** blend up to three artists, albums or eras with adjustable shares; take vocals from another source.
+- **Mix styles:** blend up to three artists, albums or eras with adjustable shares — e.g.
+  [Radiohead × Beethoven](https://promptone.pro/en/mix?s=radiohead~general~~50&s=ludwig-van-beethoven~general~~50); take vocals from another source.
 - **Suno and Udio** versions of every prompt, Exclude Styles for Suno, a live-sound toggle.
 - **Any artist on demand:** not in the catalog? The site finds them on MusicBrainz and generates prompts in a minute.
 - Free, no sign-up.
