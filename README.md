@@ -39,7 +39,7 @@ More â€” [100 popular artists and 20 composers](EXAMPLES.md), everything else â€
   <img src="images/radiohead.png" width="49%" alt="Radiohead">
   <img src="images/daft-punk.png" width="49%" alt="Daft Punk">
   <img src="images/ludwig-van-beethoven.png" width="49%" alt="Ludwig van Beethoven">
-  <img src="images/kino.png" width="49%" alt="Kino">
+  <img src="images/nirvana.png" width="49%" alt="Nirvana">
 </p>
 
 ## How to use
